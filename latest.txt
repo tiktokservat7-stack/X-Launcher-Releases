@@ -1,2 +1,2 @@
-﻿1.0.2
-https://github.com/tiktokservat7-stack/X-Launcher-Releases/releases/download/v1.0.2/X.Launcher-Setup.msi
+﻿1.0.3
+https://github.com/tiktokservat7-stack/X-Launcher-Releases/releases/download/v1.0.3/X.Launcher-Setup.msi
